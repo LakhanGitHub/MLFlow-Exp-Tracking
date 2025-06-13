@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Data_Science/MLFlow/mlruns/0/models/m-efc732144b3a4d88b26ca09c100c6f98/artifacts
+creation_timestamp: 1749805031448
+experiment_id: '0'
+last_updated_timestamp: 1749805048009
+model_id: m-efc732144b3a4d88b26ca09c100c6f98
+model_type: ''
+name: decision_tree_model
+source_run_id: 9ac5bdb2ebdd4973bf1d9b3555518a5c
+status: 2
+status_message: null

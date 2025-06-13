@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Data_Science/MLFlow/mlruns/0/models/m-ffac0481552e4650a35f0f3a7272155b/artifacts
+creation_timestamp: 1749740105353
+experiment_id: '0'
+last_updated_timestamp: 1749740120470
+model_id: m-ffac0481552e4650a35f0f3a7272155b
+model_type: null
+name: svm_model
+source_run_id: 4a27c2803971478cb27b3fdd85198f46
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Data_Science/MLFlow/mlruns/0/9ac5bdb2ebdd4973bf1d9b3555518a5c/artifacts
+end_time: 1749805048044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ac5bdb2ebdd4973bf1d9b3555518a5c
+run_name: DecisionTree_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749804983638
+status: 3
+tags: []
+user_id: acer

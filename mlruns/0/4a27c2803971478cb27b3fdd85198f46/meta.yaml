@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Data_Science/MLFlow/mlruns/0/4a27c2803971478cb27b3fdd85198f46/artifacts
+end_time: 1749740120506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a27c2803971478cb27b3fdd85198f46
+run_name: SVM_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749740072829
+status: 3
+tags: []
+user_id: acer
