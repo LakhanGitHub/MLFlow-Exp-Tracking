@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data_Science/MLFlow/mlruns/997401666517369111/0b074e201e38424aa0e0d854b5c055de/artifacts
+deleted_time: 1749895507774
+end_time: 1749825704919
+entry_point_name: ''
+experiment_id: '997401666517369111'
+lifecycle_stage: deleted
+run_id: 0b074e201e38424aa0e0d854b5c055de
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749825692480
+status: 3
+tags: []
+user_id: acer

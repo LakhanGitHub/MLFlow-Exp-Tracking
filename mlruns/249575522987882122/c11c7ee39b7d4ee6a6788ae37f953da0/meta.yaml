@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/249575522987882122/c11c7ee39b7d4ee6a6788ae37f953da0/artifacts
+end_time: 1749895594573
+entry_point_name: ''
+experiment_id: '249575522987882122'
+lifecycle_stage: active
+run_id: c11c7ee39b7d4ee6a6788ae37f953da0
+run_name: XGBClassifier With SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749895581020
+status: 3
+tags: []
+user_id: acer

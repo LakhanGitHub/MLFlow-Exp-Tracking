@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/249575522987882122/63da3cc954c6460b93db9d932c858ad2/artifacts
+end_time: 1749895566542
+entry_point_name: ''
+experiment_id: '249575522987882122'
+lifecycle_stage: active
+run_id: 63da3cc954c6460b93db9d932c858ad2
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749895546620
+status: 3
+tags: []
+user_id: acer

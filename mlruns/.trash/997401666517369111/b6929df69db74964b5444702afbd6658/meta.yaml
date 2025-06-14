@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data_Science/MLFlow/mlruns/997401666517369111/b6929df69db74964b5444702afbd6658/artifacts
+deleted_time: 1749895507774
+end_time: 1749825790192
+entry_point_name: ''
+experiment_id: '997401666517369111'
+lifecycle_stage: deleted
+run_id: b6929df69db74964b5444702afbd6658
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749825758196
+status: 3
+tags: []
+user_id: acer

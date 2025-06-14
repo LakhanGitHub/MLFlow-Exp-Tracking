@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data_Science/MLFlow/mlruns/997401666517369111/ac06cf24bbf04712991ca04ea107baa3/artifacts
+deleted_time: 1749895507774
+end_time: 1749825758131
+entry_point_name: ''
+experiment_id: '997401666517369111'
+lifecycle_stage: deleted
+run_id: ac06cf24bbf04712991ca04ea107baa3
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749825723727
+status: 3
+tags: []
+user_id: acer
